@@ -1,0 +1,7 @@
+plaza
+https://www.google.com.br/maps/@-22.8960252,-43.1244407,104m/data=!3m1!1e3
+
+
+
+praça
+https://www.google.com.br/maps/@-22.9039076,-43.1162911,104m/data=!3m1!1e3
